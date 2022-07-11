@@ -1,0 +1,16 @@
+.mariposa {
+    background-color: #f28f8f;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#gato {
+    color: #0000ff;
+    font-size: 36px;
+}
+.saltamontes {
+    font-size: 24px;
+}
+#perro {
+    background-color: #5eeba2;
+    font-size: 24px;
+    font-weight: bold;
+}
